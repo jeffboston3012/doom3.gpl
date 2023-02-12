@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjeffboston3012%2Fdoom3.gpl.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjeffboston3012%2Fdoom3.gpl?ref=badge_shield)
+
 (For information about this project on GitHub, see http://ttimo.github.com/doom3.gpl/)
 
 Doom 3 GPL source release
@@ -59,7 +61,7 @@ Back End Rendering of Stencil Shadows:
 --------------------------------------
 
 The Doom 3 GPL source code release does not include functionality enabling rendering
-of stencil shadows via the ìdepth failî method, a functionality commonly known as 
+of stencil shadows via the ‚Äúdepth fail‚Äù method, a functionality commonly known as 
 "Carmack's Reverse".
 
 MayaImport:
@@ -403,7 +405,7 @@ lines	file(s)
 225		neo/sys/linux/setup/brandelf.c
 
 /*-
- * Copyright (c) 1996 S¯ren Schmidt
+ * Copyright (c) 1996 S√∏ren Schmidt
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
@@ -435,5 +437,8 @@ lines	file(s)
 makeself - Make self-extractable archives on Unix
 --------------------------------------------------------------------------- 
 neo/sys/linux/setup/makeself/*, neo/sys/linux/setup/makeself/README
-Copyright (c) StÈphane Peter
+Copyright (c) St√©phane Peter
 Licensing: GPL v2
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjeffboston3012%2Fdoom3.gpl.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjeffboston3012%2Fdoom3.gpl?ref=badge_large)
